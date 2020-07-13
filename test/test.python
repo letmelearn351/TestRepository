@@ -1,0 +1,7 @@
+# This is a sample test file.
+
+def main():
+    # start of the program
+    print ('Hello git learner')
+if __name__ == '__main__':
+    main()
